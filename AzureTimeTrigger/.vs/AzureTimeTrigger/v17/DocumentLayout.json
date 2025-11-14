@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Reddy 3.0\\TestProject\\AzureTestFunc\\AzureTimeTrigger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C099C1-CA63-4520-BD46-145D928C7594}|AzureTimeTrigger\\AzureTimeTrigger.csproj|d:\\reddy 3.0\\testproject\\azuretestfunc\\azuretimetrigger\\azuretimetrigger\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C099C1-CA63-4520-BD46-145D928C7594}|AzureTimeTrigger\\AzureTimeTrigger.csproj|solutionrelative:azuretimetrigger\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAB17E-570F-451F-9232-9EC9A14B1F99}|..\\TimeTriggerAzure\\TimeTriggerAzure\\TimeTriggerAzure.csproj|d:\\reddy 3.0\\testproject\\azuretestfunc\\timetriggerazure\\timetriggerazure\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\Reddy 3.0\\TestProject\\AzureTestFunc\\AzureTimeTrigger\\AzureTimeTrigger\\Function1.cs",
+              "RelativeDocumentMoniker": "AzureTimeTrigger\\Function1.cs",
+              "ToolTip": "D:\\Reddy 3.0\\TestProject\\AzureTestFunc\\AzureTimeTrigger\\AzureTimeTrigger\\Function1.cs",
+              "RelativeToolTip": "AzureTimeTrigger\\Function1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:35:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\Reddy 3.0\\TestProject\\AzureTestFunc\\TimeTriggerAzure\\TimeTriggerAzure\\Function1.cs",
+              "RelativeDocumentMoniker": "..\\TimeTriggerAzure\\TimeTriggerAzure\\Function1.cs",
+              "ToolTip": "D:\\Reddy 3.0\\TestProject\\AzureTestFunc\\TimeTriggerAzure\\TimeTriggerAzure\\Function1.cs",
+              "RelativeToolTip": "..\\TimeTriggerAzure\\TimeTriggerAzure\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:23:48.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
